@@ -1,3 +1,6 @@
+#host.docker.internal not working on prismagraphql/prisma:1.34 on docker-compose (1.29.2) docker 20.10.9 CentOS 8.4.2105
+
+
 Hello,
 
 I want deploy a 'prismagraphql/prisma:1.34' container using :
@@ -63,5 +66,5 @@ services:
 I try many incidents to disable firewall add to /etc/hosts ... => NOT WORKING
 
 
-Here i create a GitHub repo :  
+Here i create a GitHub repo :  https://github.com/performautodev/local-prisma-1.34-using-docker-compose-1.29.2-docker-20.10.9-on-CentOS-8.4.2105
 

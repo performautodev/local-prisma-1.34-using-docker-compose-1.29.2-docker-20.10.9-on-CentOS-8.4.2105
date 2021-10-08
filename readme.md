@@ -1,3 +1,5 @@
+#host.docker.internal not working on prismagraphql/prisma:1.34 on docker-compose (1.29.2) docker 20.10.9 CentOS 8.4.2105
+
 ```shell
 docker-compose up -d
 ```
